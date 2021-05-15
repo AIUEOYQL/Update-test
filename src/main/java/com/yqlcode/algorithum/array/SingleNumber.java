@@ -36,7 +36,7 @@ public class SingleNumber {
     }
 
     /**
-     * 0^任意数 = 任意数  任意数 亦或 任意数 = 0  亦或满足交换率和结合率 即 a ^ b ^ a = a^a^b = b
+     * 0^任意数 = 任意数  任意数 亦或 任意数 = 0  亦或满足交换率和结合率 即 a ^ b ^ a = a^a^b = bhahaha
      * @param nums
      * @return
      */
